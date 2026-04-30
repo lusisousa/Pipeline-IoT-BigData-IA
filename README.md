@@ -63,8 +63,8 @@ Após o download, o arquivo CSV deve ser colocado na pasta:
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/pipeline-iot-docker.git
-cd pipeline-iot-docker
+git clone https://github.com/lusisousa/Pipeline-IoT-BigData-IA.git
+cd pipeline-iot-bigdata-ia
 ```
 
 ---
@@ -153,7 +153,7 @@ git init
 git add .
 git commit -m "Projeto inicial pipeline IoT"
 git branch -M main
-git remote add origin <URL_DO_REPOSITORIO>
+git remote add origin https://github.com/lusisousa/Pipeline-IoT-BigData-IA.git
 git push -u origin main
 ```
 
